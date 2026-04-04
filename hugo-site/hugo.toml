@@ -14,7 +14,7 @@ title = "Re-Al Dev World"
   mainSections = ["posts"]
 
   [params.homepage]
-    layout = "page"
+    layout = "profile"
     showRecent = true
     recentLimit = 10
 
@@ -28,6 +28,9 @@ title = "Re-Al Dev World"
       { linkedin = "https://linkedin.com/in/real7" },
     ]
 
+  [params.article]
+    showComments = true
+
 [taxonomies]
   tag = "tags"
   category = "categories"
@@ -37,3 +40,18 @@ title = "Re-Al Dev World"
 
 [pagination]
   pagerSize = 10
+
+[[menus.main]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 10
+
+[[menus.main]]
+  name = "Tags"
+  pageRef = "/tags"
+  weight = 20
+
+[[menus.main]]
+  name = "Sobre mí"
+  pageRef = "/about"
+  weight = 30
