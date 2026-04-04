@@ -18,10 +18,13 @@ title = "Re-Al Dev World"
     showRecent = true
     recentLimit = 10
 
+  enableSearch = true
+
   [params.author]
     name = "Alonzo Vera A."
     email = "7.re.al.7@gmail.com"
     headline = "Developer | .Net | PostgreSQL | DevOps"
+    image = "profile.jpg"
     links = [
       { twitter = "https://twitter.com/re_al_" },
       { github = "https://github.com/re-al-7" },
@@ -30,6 +33,8 @@ title = "Re-Al Dev World"
 
   [params.article]
     showComments = true
+    showReadingTime = true
+    sharingLinks = ["twitter", "linkedin", "facebook", "email"]
 
 [taxonomies]
   tag = "tags"
