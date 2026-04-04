@@ -34,6 +34,8 @@ title = "Re-Al Dev World"
   [params.article]
     showComments = true
     showReadingTime = true
+    showTableOfContents = true
+    showPagination = true
     sharingLinks = ["twitter", "linkedin", "facebook", "email"]
 
 [taxonomies]
@@ -60,3 +62,8 @@ title = "Re-Al Dev World"
   name = "Sobre mí"
   pageRef = "/about"
   weight = 30
+
+[[menus.main]]
+  name = "Experiencia"
+  pageRef = "/experience"
+  weight = 40
