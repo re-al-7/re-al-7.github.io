@@ -1,5 +1,6 @@
 ---
 title: "SonarQube para metricas del Codigo en VisualStudio"
+slug: "sonarqube-para-estadisticas-en-visualstudio"
 date: 2017-06-22
 tags: ["integracion continua"]
 ---

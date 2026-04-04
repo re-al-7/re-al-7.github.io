@@ -1,5 +1,6 @@
 ---
 title: "Integración Jenkins con MSBuild e IIS"
+slug: "integracion-jenkins-iis"
 date: 2017-06-20
 tags: ["integracion continua"]
 ---

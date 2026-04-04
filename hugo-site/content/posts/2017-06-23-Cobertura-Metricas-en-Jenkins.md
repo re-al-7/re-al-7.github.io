@@ -1,5 +1,6 @@
 ---
 title: "Cobertura y Metricas en Jenkins para proyectos .Net"
+slug: "cobertura-metricas-en-jenkins"
 date: 2017-06-23
 tags: ["integracion continua"]
 ---
