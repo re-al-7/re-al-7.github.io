@@ -3,6 +3,7 @@ title: "Mi Formación y Experiencia"
 date: 2021-01-01
 layout: "simple"
 showTableOfContents: true
+draft: true
 ---
 
 ## Cursos, Seminarios y Talleres

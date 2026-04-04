@@ -1,6 +1,7 @@
 baseURL = "https://re-al-7.github.io/"
 languageCode = "es"
 title = "Re-Al Dev World"
+googleAnalytics = "UA-101899002-1"
 
 [module]
   [[module.imports]]
@@ -12,13 +13,12 @@ title = "Re-Al Dev World"
   autoSwitchAppearance = true
   description = "Un blog de R. Alonzo Vera A."
   mainSections = ["posts"]
+  enableSearch = true
 
   [params.homepage]
     layout = "profile"
     showRecent = true
     recentLimit = 10
-
-  enableSearch = true
 
   [params.author]
     name = "Alonzo Vera A."
@@ -62,8 +62,3 @@ title = "Re-Al Dev World"
   name = "Sobre mí"
   pageRef = "/about"
   weight = 30
-
-[[menus.main]]
-  name = "Experiencia"
-  pageRef = "/experience"
-  weight = 40
