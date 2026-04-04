@@ -8,7 +8,7 @@ googleAnalytics = "UA-101899002-1"
     path = "github.com/jpanther/congo/v2"
 
 [params]
-  colorScheme = "congo"
+  colorScheme = "dracula"
   defaultAppearance = "dark"
   autoSwitchAppearance = true
   description = "Un blog de R. Alonzo Vera A."

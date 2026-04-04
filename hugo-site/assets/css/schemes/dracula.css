@@ -1,0 +1,40 @@
+/* Dracula scheme */
+:root {
+  --color-neutral: 248, 248, 242;   /* Dracula foreground */
+  /* Neutrals: light-mode grays → dark-mode Dracula palette */
+  --color-neutral-50: 249, 249, 252;
+  --color-neutral-100: 242, 242, 248;
+  --color-neutral-200: 220, 220, 235;
+  --color-neutral-300: 195, 195, 215;
+  --color-neutral-400: 155, 155, 180;
+  --color-neutral-500: 115, 115, 145;
+  --color-neutral-600: 98, 114, 164;   /* Dracula comment */
+  --color-neutral-700: 68, 71, 90;    /* Dracula current line */
+  --color-neutral-800: 40, 42, 54;    /* Dracula background */
+  --color-neutral-900: 30, 32, 44;    /* darker than bg */
+  --color-neutral-950: 20, 22, 34;
+  /* Primary: Dracula Purple */
+  --color-primary-50: 252, 249, 255;
+  --color-primary-100: 245, 238, 254;
+  --color-primary-200: 232, 218, 253;
+  --color-primary-300: 213, 185, 251;
+  --color-primary-400: 189, 147, 249;  /* Dracula purple */
+  --color-primary-500: 155, 110, 230;
+  --color-primary-600: 125, 80, 200;
+  --color-primary-700: 100, 58, 165;
+  --color-primary-800: 78, 42, 132;
+  --color-primary-900: 60, 30, 105;
+  --color-primary-950: 40, 16, 75;
+  /* Secondary: Dracula Pink */
+  --color-secondary-50: 255, 248, 253;
+  --color-secondary-100: 255, 236, 250;
+  --color-secondary-200: 255, 207, 242;
+  --color-secondary-300: 255, 165, 225;
+  --color-secondary-400: 255, 121, 198;  /* Dracula pink */
+  --color-secondary-500: 240, 85, 170;
+  --color-secondary-600: 210, 55, 140;
+  --color-secondary-700: 175, 35, 110;
+  --color-secondary-800: 140, 22, 85;
+  --color-secondary-900: 110, 14, 65;
+  --color-secondary-950: 75, 5, 42;
+}
