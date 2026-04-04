@@ -11,6 +11,12 @@ title = "Re-Al Dev World"
   defaultAppearance = "dark"
   autoSwitchAppearance = true
   description = "Un blog de R. Alonzo Vera A."
+  mainSections = ["posts"]
+
+  [params.homepage]
+    layout = "page"
+    showRecent = true
+    recentLimit = 10
 
   [params.author]
     name = "Alonzo Vera A."
