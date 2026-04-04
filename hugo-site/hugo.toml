@@ -1,0 +1,33 @@
+baseURL = "https://re-al-7.github.io/"
+languageCode = "es"
+title = "Re-Al Dev World"
+
+[module]
+  [[module.imports]]
+    path = "github.com/jpanther/congo/v2"
+
+[params]
+  colorScheme = "congo"
+  defaultAppearance = "dark"
+  autoSwitchAppearance = true
+  description = "Un blog de R. Alonzo Vera A."
+
+  [params.author]
+    name = "Alonzo Vera A."
+    email = "7.re.al.7@gmail.com"
+    headline = "Developer | .Net | PostgreSQL | DevOps"
+    links = [
+      { twitter = "https://twitter.com/re_al_" },
+      { github = "https://github.com/re-al-7" },
+      { linkedin = "https://linkedin.com/in/real7" },
+    ]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+  pagerSize = 10
