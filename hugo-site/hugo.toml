@@ -38,6 +38,10 @@ googleAnalytics = "UA-101899002-1"
     showPagination = true
     sharingLinks = ["twitter", "linkedin", "facebook", "email"]
 
+[permalinks]
+  [permalinks.page]
+    posts = "/:year/:slug/"
+
 [taxonomies]
   tag = "tags"
   category = "categories"
