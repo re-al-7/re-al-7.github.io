@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="Add a title for the commit.&#10;&#10;Then add a details: avoid overly verbose descriptions or unnecessary details.&#10;Use short sentences in imperative form thats no more than 100 characters long to describe each change&#10;for each change start on a new line.&#10;prefix the sentence with a +  for any new additions, a -  for any removed parts, and a #  for any fixes. add a space after the prefix and before the sentence" />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b37aad4b-daa4-422d-bec4-6d30cdf22cd5" name="Changes" comment="fix: add slugs and update filenames for consistency in blog posts">
-      <change afterPath="$PROJECT_DIR$/hugo-site/content/posts/2026-04-08-MD-Converter-segunda-mente.md" afterDir="false" />
-    </list>
+    <list default="true" id="b37aad4b-daa4-422d-bec4-6d30cdf22cd5" name="Changes" comment="### Commit Title&#10;feat: add blog post detailing MD Converter features and use cases&#10;&#10;### Commit Details&#10;+ Add new blog post: &quot;MD Converter: Tu bandeja de entrada y tus documentos como segunda mente.&quot;&#10;+ Highlight key features of MD Converter, including CLI and local web interface.&#10;+ Explain supported file formats and generated Markdown output structure.&#10;+ Detail the email threading and noise-cleaning logic for .msg files.&#10;+ Include YAML frontmatter examples for Obsidian integration.&#10;+ Add list of configurable options and their corresponding effects.&#10;+ Provide practical use cases and GitHub repo link for further exploration." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +28,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="656" />
+    <option name="cachedIndexableFilesCount" value="658" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -129,7 +141,7 @@
       <workItem from="1716946860836" duration="1675000" />
       <workItem from="1716948599497" duration="2672000" />
       <workItem from="1775343740472" duration="4112000" />
-      <workItem from="1775671455884" duration="2698000" />
+      <workItem from="1775671455884" duration="3160000" />
     </task>
     <task id="LOCAL-00001" summary="fix: update post title and correct grammar in JMeter Recording Controller article">
       <option name="closed" value="true" />
@@ -155,7 +167,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775345504242</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="### Commit Title  &#10;setup: add IntelliJ IDEA project configuration files  &#10;&#10;### Commit Details  &#10;+ Add `.idea` directory containing various IntelliJ IDEA configuration files.  &#10;+ Include workspace settings, database connection history, and VCS settings.  &#10;+ Add `db-forest-config.xml` for database synchronization configuration.  &#10;+ Set up project integration with Git in `vcs.xml`.">
+      <option name="closed" value="true" />
+      <created>1775676066399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775676066399</updated>
+    </task>
+    <task id="LOCAL-00005" summary="### Commit Title&#10;feat: add blog post detailing MD Converter features and use cases&#10;&#10;### Commit Details&#10;+ Add new blog post: &quot;MD Converter: Tu bandeja de entrada y tus documentos como segunda mente.&quot;&#10;+ Highlight key features of MD Converter, including CLI and local web interface.&#10;+ Explain supported file formats and generated Markdown output structure.&#10;+ Detail the email threading and noise-cleaning logic for .msg files.&#10;+ Include YAML frontmatter examples for Obsidian integration.&#10;+ Add list of configurable options and their corresponding effects.&#10;+ Provide practical use cases and GitHub repo link for further exploration.">
+      <option name="closed" value="true" />
+      <created>1775676084671</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775676084671</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +193,10 @@
     <MESSAGE value="fix: update post title and correct grammar in JMeter Recording Controller article" />
     <MESSAGE value="fix: update post title, add slug, and correct grammar in JMeter Recording Controller article" />
     <MESSAGE value="fix: add slugs and update filenames for consistency in blog posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: add slugs and update filenames for consistency in blog posts" />
+    <MESSAGE value="chore: add IDE configuration and database connection history files" />
+    <MESSAGE value="### Commit Title  &#10;setup: add IntelliJ IDEA project configuration files  &#10;&#10;### Commit Details  &#10;+ Add `.idea` directory containing various IntelliJ IDEA configuration files.  &#10;+ Include workspace settings, database connection history, and VCS settings.  &#10;+ Add `db-forest-config.xml` for database synchronization configuration.  &#10;+ Set up project integration with Git in `vcs.xml`." />
+    <MESSAGE value="### Commit Title&#10;feat: add blog post detailing MD Converter features and use cases&#10;&#10;### Commit Details&#10;+ Add new blog post: &quot;MD Converter: Tu bandeja de entrada y tus documentos como segunda mente.&quot;&#10;+ Highlight key features of MD Converter, including CLI and local web interface.&#10;+ Explain supported file formats and generated Markdown output structure.&#10;+ Detail the email threading and noise-cleaning logic for .msg files.&#10;+ Include YAML frontmatter examples for Obsidian integration.&#10;+ Add list of configurable options and their corresponding effects.&#10;+ Provide practical use cases and GitHub repo link for further exploration." />
+    <option name="LAST_COMMIT_MESSAGE" value="### Commit Title&#10;feat: add blog post detailing MD Converter features and use cases&#10;&#10;### Commit Details&#10;+ Add new blog post: &quot;MD Converter: Tu bandeja de entrada y tus documentos como segunda mente.&quot;&#10;+ Highlight key features of MD Converter, including CLI and local web interface.&#10;+ Explain supported file formats and generated Markdown output structure.&#10;+ Detail the email threading and noise-cleaning logic for .msg files.&#10;+ Include YAML frontmatter examples for Obsidian integration.&#10;+ Add list of configurable options and their corresponding effects.&#10;+ Provide practical use cases and GitHub repo link for further exploration." />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
