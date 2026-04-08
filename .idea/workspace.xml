@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b37aad4b-daa4-422d-bec4-6d30cdf22cd5" name="Changes" comment="fix: add slugs and update filenames for consistency in blog posts">
+      <change afterPath="$PROJECT_DIR$/hugo-site/content/posts/2026-04-08-MD-Converter-segunda-mente.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="656" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2VBNs7veZXiIGYxNs4TAcVhFdI7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "database.data.extractors.current.export.id": "SQL Inserts",
+    "database.data.extractors.current.id": "SQL Inserts",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/DESA/repos/re-al-7.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver",
+      "mysql",
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-WS-261.22158.274" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b37aad4b-daa4-422d-bec4-6d30cdf22cd5" name="Changes" comment="" />
+      <created>1694305717170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694305717170</updated>
+      <workItem from="1694305719067" duration="2200000" />
+      <workItem from="1694438036270" duration="9000" />
+      <workItem from="1695342665462" duration="3557000" />
+      <workItem from="1695855299596" duration="1245000" />
+      <workItem from="1696078514461" duration="1805000" />
+      <workItem from="1696103233626" duration="2752000" />
+      <workItem from="1696416638917" duration="288000" />
+      <workItem from="1698171402102" duration="6671000" />
+      <workItem from="1698179991858" duration="700000" />
+      <workItem from="1699015817383" duration="3994000" />
+      <workItem from="1699277907503" duration="2011000" />
+      <workItem from="1701370486207" duration="2596000" />
+      <workItem from="1701432109472" duration="841000" />
+      <workItem from="1701695244889" duration="5257000" />
+      <workItem from="1701778819690" duration="1207000" />
+      <workItem from="1701781437075" duration="5761000" />
+      <workItem from="1701870076766" duration="7024000" />
+      <workItem from="1702305228427" duration="1890000" />
+      <workItem from="1702403328119" duration="1541000" />
+      <workItem from="1703012759096" duration="2257000" />
+      <workItem from="1703030519484" duration="635000" />
+      <workItem from="1704803082690" duration="1514000" />
+      <workItem from="1707517787350" duration="1174000" />
+      <workItem from="1708085805850" duration="88000" />
+      <workItem from="1710940690192" duration="600000" />
+      <workItem from="1711627154256" duration="2060000" />
+      <workItem from="1711649264694" duration="1447000" />
+      <workItem from="1712211896677" duration="43000" />
+      <workItem from="1716946860836" duration="1675000" />
+      <workItem from="1716948599497" duration="2672000" />
+      <workItem from="1775343740472" duration="4112000" />
+      <workItem from="1775671455884" duration="2698000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix: update post title and correct grammar in JMeter Recording Controller article">
+      <option name="closed" value="true" />
+      <created>1775343988759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775343988759</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix: update post title, add slug, and correct grammar in JMeter Recording Controller article">
+      <option name="closed" value="true" />
+      <created>1775344182247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775344182247</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: add slugs and update filenames for consistency in blog posts">
+      <option name="closed" value="true" />
+      <created>1775345504242</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775345504242</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix: update post title and correct grammar in JMeter Recording Controller article" />
+    <MESSAGE value="fix: update post title, add slug, and correct grammar in JMeter Recording Controller article" />
+    <MESSAGE value="fix: add slugs and update filenames for consistency in blog posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: add slugs and update filenames for consistency in blog posts" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

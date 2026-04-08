@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="db-forest-configuration">
+    <data version="2">.
+	1:0:0bc6f418-8d28-4088-9c79-4a4748e5c1d0:CORE-Mongo
+	9:0:34a4c4df-55cc-47dc-b073-dd7a8258e792:NEW-CORE MySql
+	14:0:0ebbf4ff-a722-47f3-b3ff-264b3f53c588:NEW-CORE
+	----------------------------------------
+	2:1:1c68c278-7232-46b9-93d0-f36f3f73eb3c
+	3:1:452a673f-0eac-495b-8c5c-aaa9a72bc3aa
+	4:1:c79cd9c2-e9d7-4417-8bb4-ae06c5c53997
+	5:1:2904ed52-edad-4a86-b69e-272dfebb1606
+	6:1:3d6d6748-b280-4372-bded-bc5e9ba5c11a
+	7:1:06f6280c-1185-482f-b4f1-d06a08b2c96b
+	8:1:4e3290dc-8993-4e42-9442-5b39d70d8c1c
+	10:9:5cbdf618-62ee-4d64-9b60-9c3f8cacc843
+	11:9:776ea86e-b5d8-4ea8-85f4-faa1e335b542
+	12:9:3e6f2384-1664-4c62-8850-a1acb7944a83
+	13:9:33f20a1f-f348-4aba-a042-4e5254e3ec4e
+	15:14:e944da8c-79e1-4079-9a42-ae0b7919ecaf
+	16:14:ee1c1b0e-3e4a-4b41-92db-ddb09317b307
+	17:14:c2b7a7a9-d9da-4d9e-89f1-77787e0dd7e5
+		.</data>
+  </component>
+</project>
