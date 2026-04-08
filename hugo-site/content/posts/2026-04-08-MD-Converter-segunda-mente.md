@@ -202,4 +202,4 @@ tags: ["obsidian", "python", "markdown"]
   El proyecto está pensado como infraestructura personal: corre local, no necesita internet, no tiene base de datos, y
   produce archivos de texto plano que duran décadas. La inteligencia está en las reglas, y las reglas son editables.
   
-Puedes acceder a su repo público en [GitHub](https://github.com/alonzo-vera/md-converter).
+Puedes acceder a su repo público en [GitHub](https://github.com/re-al-7/MD-Converter).
